@@ -1,0 +1,70 @@
+
+body {
+ width: auto;
+ height: auto;
+ border: 25px dashed pink;
+ padding: 25px;
+ margin: 25px;
+}
+
+p {
+	font-family: Georgia;
+	color: green;
+}
+
+h1 {
+	  color: pink;
+	  font-size: 40px;
+	  text-align: center;
+}
+
+ h2 {
+	   font-family: Courier;
+	   color: purple;
+}
+
+ h3 {
+	   font-size: 30px;
+	   font-family: Magneto;
+     text-align: center;
+     margin-right: 300px;
+ }
+
+ ul,ol, li {
+	  margin-left: 50px;
+ }
+
+ footer {
+   display: block;
+ }
+
+ #BTSimg {
+   margin-left: 300px;
+ }
+
+#paragraphs {
+  margin-right: 250px;
+}
+
+.links {
+	  font-family: Georgia;
+		text-align: center;
+}
+
+
+#memberlist {
+  color: purple !important;
+  font-style: Georgia !important;
+}
+
+#BTS {
+align-content: center;
+}
+
+.Btsdiv {
+margin-left: 300px;
+}
+
+.paragraph12 {
+text-align: center;
+}
